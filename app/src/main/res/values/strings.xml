@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">LocationTest</string>
-    <string name="google_maps_key">AIzaSyB-smwYFCBmAJA5KG0JEFXYQa27sl2BSns</string>
+    <string name="google_maps_key"></string>
 </resources>
